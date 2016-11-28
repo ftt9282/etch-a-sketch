@@ -1,0 +1,33 @@
+body {
+  background-color: gray;
+}
+
+header, #navbar {
+  text-align: center;
+}
+
+button {
+    background-color: #cfc7c7;
+    border-radius: 10px;
+    padding: 7px 25px;
+    border: none;
+}
+
+button:hover {
+  background-color: #abb1c2;
+}
+
+.box {
+  background-color: white;
+  border-width: 0px;
+  display: inline-block;
+  float: left;
+}
+#boxes {
+    line-height: 0px;
+    float: left;
+    display: inline-block;
+    margin: 20px 0 150px 35%;
+}
+
+
